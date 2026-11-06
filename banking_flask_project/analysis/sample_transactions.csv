@@ -1,0 +1,10 @@
+reference,date,account,type,amount,description
+TXN0001,2026-08-24,Primary Savings,Deposit,1200,Salary credit
+TXN0002,2026-08-23,Everyday Checking,Withdrawal,450,ATM withdrawal
+TXN0003,2026-08-22,Primary Savings,Transfer,300,Transfer to checking
+TXN0004,2026-08-21,Fixed Deposit,Deposit,2000,FD renewal
+TXN0005,2026-08-20,Everyday Checking,Withdrawal,120,Online purchase
+TXN0006,2026-08-19,Primary Savings,Deposit,800,Freelance payment
+TXN0007,2026-08-18,Everyday Checking,Withdrawal,250,Grocery store
+TXN0008,2026-08-17,Primary Savings,Withdrawal,2500,Large cash withdrawal
+TXN0009,2026-08-16,Everyday Checking,Transfer,3500,Multiple transfer review
